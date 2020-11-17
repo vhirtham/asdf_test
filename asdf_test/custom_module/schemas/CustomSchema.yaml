@@ -1,0 +1,16 @@
+%YAML 1.1
+---
+$schema: "No effect!"
+id: "No effect!"
+
+#tag: "tag:stsci.edu:asdf/core/asdf-1.*"
+type: object
+properties:
+  a:
+    type: number
+  b:
+    type: array
+    items:
+      type: integer
+
+required: [cc]

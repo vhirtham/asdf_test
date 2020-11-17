@@ -1,0 +1,16 @@
+%YAML 1.1
+---
+$schema: "No effect!"
+id: "No effect!"
+
+tag: "tag:CustomOrganization:CustomStandard/CustomClass-1.0.0"
+type: object
+properties:
+  a:
+    type: number
+  b:
+    type: array
+    items:
+      type: integer
+
+required: [b]
