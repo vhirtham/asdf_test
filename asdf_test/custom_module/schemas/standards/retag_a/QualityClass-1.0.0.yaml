@@ -1,0 +1,12 @@
+%YAML 1.1
+---
+$schema: "No effect!"
+id: "No effect!"
+
+tag: "tag:QualityOrganization:retag_a/QualityClass-1.0.0"
+type: object
+
+required: [b]
+
+
+
